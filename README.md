@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshmani&show_icons=true&locale=en" alt="vanshmani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshmani&" alt="vanshmani" /></p>
-![image](https://user-images.githubusercontent.com/90639468/211163441-7f125250-f64b-4384-986c-47a77f54843f.png)
+
