@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Vanshmani Jha</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=ecf05e47npk2mf35w3j3692an9lbxevuo7sfxzq5ned53ew3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Vanshmani's Innovation GIF" />
+</p>
 <h3 align="center">A passionate innovator in Education Tech🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshmani&label=Profile%20views&color=0e75b6&style=flat" alt="vanshmani" /> </p>
